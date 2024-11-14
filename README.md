@@ -40,4 +40,4 @@ This Power BI dashboard provides a comprehensive view of Superstore sales, enabl
 
 ## Dashboard Image
 
-**For the preview of the Superstore sales Dashboard, click on the link** : [Dasboard Image](Dashborad%20Image)
+**For the preview of the Superstore sales Dashboard, click on the link** : [Dasboard Image](Dashborad%20Image.png)

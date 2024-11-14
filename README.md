@@ -37,3 +37,7 @@ The data is sourced from a **Superstore Sales database**, integrated into Power 
 ## Conclusion
 
 This Power BI dashboard provides a comprehensive view of Superstore sales, enabling stakeholders to make data-driven decisions around sales strategies, product offerings, and market targeting. The insights derived can improve customer targeting, optimize product selection, and maximize profitability.
+
+## Dashboard Image
+
+**For the preview of the Covid-19 Dashboard click on the link** : Dasboard Image
